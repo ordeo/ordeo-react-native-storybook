@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{h as t,m as n}from"./iframe-D-AQh-w-.js";function r(e,n){return t(e)?Object.fromEntries(Object.entries(e).map(([e,t])=>[e,n(t)])):n(e)}function i(){return(i=e((()=>{n()})))()}export{r as n,i as t};

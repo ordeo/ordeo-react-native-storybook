@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C0FnF6B9.js";import{t}from"./react-BysMvcJ3.js";function n(e,t){let n=(0,r.createContext)(t);return n.displayName=e,n}var r;function i(){return(i=e((()=>{r=t()})))()}var a;function o(){return(o=e((()=>{a={hovered:!1,pressed:!1,focused:!1,disabled:!1}})))()}export{i,o as n,n as r,a as t};
